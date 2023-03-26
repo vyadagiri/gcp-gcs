@@ -1,0 +1,1 @@
+gsutil mb -c standard -l europe-west2 gs://vimages
